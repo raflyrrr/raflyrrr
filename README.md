@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on Tokopedia and Shopee
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 raflyrrr/raflyrrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
