@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Tokopedia and Shopee
 
 
-[![Rafli's GitHub stats](https://github-readme-stats.vercel.app/api?username=raflyrrr&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Rafli's GitHub stats](https://github-readme-stats.vercel.app/api?username=raflyrrr&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 raflyrrr/raflyrrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
