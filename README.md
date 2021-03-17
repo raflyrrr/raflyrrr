@@ -18,3 +18,6 @@
 raflyrrr/raflyrrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[twitter]: https://twitter.com/raflyrdnn
+[instagram]: https://instagram.com/raflyrdn
+[youtube]: https://youtube.com/rafliramadhan
