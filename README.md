@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Rafli Ramadhan
+## Hi 👋 I'm Rafli Ramadhan
+I'm an Informatics Engineering student at Gunadarma University
+
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on Tokopedia and Shopee
