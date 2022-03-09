@@ -2,7 +2,7 @@
 I'm an Informatics Engineering student at Gunadarma University
 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning React & Next
 - 💞️ I’m looking to collaborate on Tokopedia and Shopee
 
 ### Find me on:
