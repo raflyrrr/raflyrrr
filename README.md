@@ -2,7 +2,6 @@
 I'm an Informatics Engineering student at Gunadarma University
 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React & Next
 
 ### Find me on:
 
