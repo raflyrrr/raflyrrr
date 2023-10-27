@@ -1,7 +1,4 @@
 ## Hi 👋 I'm Rafli Ramadhan
-I'm an Informatics Engineering student at Gunadarma University
-
-- 👀 I’m interested in Web Development
 
 ### Find me on:
 
